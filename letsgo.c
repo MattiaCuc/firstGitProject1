@@ -1,6 +1,6 @@
 /*Added comment from repository 1 (machine 1)*/
 #include <stdio.h>
-int main(){
+int main(){//another comment macchina 2
 printf("Git,let's go!!\n");
 printf("Git,let's go!!\n");
 printf("Added line 1!\n");
